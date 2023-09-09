@@ -1,10 +1,11 @@
+> NOTE: every gist must have a description and it must be unique
+
 ## Gists scripts
 
 - **delete_gists.sh** = delete all gists from an account
 - **fork_gists.sh** = fork all gists from an account to your account
 - **download_gists.sh** = download all gists from an account
 - **upload_gists.sh** = upload gists downloaded with download_gists.sh
-
 
 ## Instructions
 
